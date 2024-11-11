@@ -27,7 +27,8 @@ A comprehensive Library Management System built with Flask and Celery, offering 
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Flask, SQLAlchemy ORM
+- **Backend**: Flask, SQLAlchemy ORM, Rest API
+- **Frontend**: VueJs, Bootstap, Javascript
 - **Task Management**: Celery for task scheduling
 - **Database Models**:
   - `User`, `Role`, `Books`, `Section`, `Request`, `IssueBook`, `Log`, `Feedback`
